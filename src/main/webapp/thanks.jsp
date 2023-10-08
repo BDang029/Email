@@ -7,6 +7,10 @@
 </head>
 
 <body>-->
+<!-- fontawesome -->
+     <script src="https://kit.fontawesome.com/a110f8f65c.js" crossorigin="anonymous"></script>
+     
+    <a href="https://dangportfolio-9d487cd1148d.herokuapp.com/#footer"><i class="fa-solid fa-house"></i> Back To Home</a>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
