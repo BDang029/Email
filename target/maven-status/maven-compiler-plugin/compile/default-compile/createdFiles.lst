@@ -1,0 +1,6 @@
+murach\data\UserIO.class
+murach\email\EmailListServlet.class
+com\mycompany\ch08_ex1_email_maven\JakartaRestConfiguration.class
+com\mycompany\ch08_ex1_email_maven\resources\JakartaEE8Resource.class
+murach\business\User.class
+murach\data\UserDB.class
