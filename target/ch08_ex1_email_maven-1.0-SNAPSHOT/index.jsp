@@ -6,9 +6,13 @@
     <meta charset="utf-8">
     <title>Murach's Java Servlets and JSP</title>
     <link rel="stylesheet" href="styles/main.css" type="text/css"/>
-    
+   
 </head>
 <body>-->
+ <!-- fontawesome -->
+     <script src="https://kit.fontawesome.com/a110f8f65c.js" crossorigin="anonymous"></script>
+     
+    <a href="https://dangportfolio-9d487cd1148d.herokuapp.com/#footer"><i class="fa-solid fa-house"></i> Back To Home</a>
 
     <%@ include file="/includes/header.html"%>
 
@@ -29,7 +33,7 @@
                value=${user.lastName} ><br>        
         <label>&nbsp;</label>
         <input type="submit" value="Join Now" class="margin_left">
-    </form>
+    </form
         
     <%@ include file="/includes/footer.jsp"%>
 
